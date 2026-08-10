@@ -1,4 +1,4 @@
-**
+/**
  * postgres-Core 启动：bootstrap + 注册可选持久化探活
  * 连接失败时 soft-skip（仍挂 PostgresService），不阻断 Runtime。
  */
